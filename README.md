@@ -1,6 +1,6 @@
 College Club Event Management System
 Welcome to the LNMIIT Club Event Management Website! This web application is designed to assist college clubs in efficiently managing their events and providing necessary information to club members and attendees. With a user-friendly interface and powerful features, organizing and coordinating events has never been easier.
-
+Live: https://clubs-management.vercel.app/
 Features
 Event Creation: Easily create and schedule new events with customizable details such as event name, date, time, location, description, and category.
 Member Management: Manage club members and their roles within the system, allowing for smooth collaboration and delegation of responsibilities.
@@ -19,6 +19,3 @@ For detailed installation and setup instructions, refer to the documentation.
 
 Contributing
 Contributions to the College Club Event Management System are welcome! Whether you want to report a bug, suggest a new feature, or contribute code enhancements, your input is valuable. Please refer to the contribution guidelines for more information on how to get involved.
-
-Support
-If you encounter any issues or have any questions about the College Club Event Management System, please don't hesitate to reach out to our support team at support@example.com. We are here to help!
